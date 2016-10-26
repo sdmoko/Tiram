@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Tiram
+Comment=A flat dark theme with transparent elements
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Tiram
+MetacityTheme=Tiram
+IconTheme=gnome
+CursorTheme=DMZ-Black
+ButtonLayout=close,minimize,maximize:
