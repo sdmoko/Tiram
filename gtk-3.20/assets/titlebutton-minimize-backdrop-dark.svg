@@ -13,8 +13,8 @@
    height="13"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="unfocused-dark.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="titlebutton-close-backdrop-dark.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,20 +25,21 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.2"
-     inkscape:cx="1.397665"
+     inkscape:cx="-12.530906"
      inkscape:cy="4.5623136"
      inkscape:document-units="px"
-     inkscape:current-layer="g4197"
+     inkscape:current-layer="g4092"
      showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1280"
-     inkscape:window-height="745"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
      inkscape:window-x="0"
-     inkscape:window-y="30"
-     inkscape:window-maximized="1" />
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="false" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -63,25 +64,22 @@
       <g
          transform="scale(0.1,0.1)"
          id="g4092">
-        <g
-           transform="matrix(9.9999999,0,0,9.9999999,3.1284009,-0.36309974)"
-           inkscape:label="ink_ext_XXXXXX"
-           id="g4195">
-          <g
-             transform="scale(0.1,0.1)"
-             id="g4197">
-            <path
-               id="path4199"
-               style="fill:#212121;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0.7"
-               d="m 430.199,4.57031 c 236.063,0 427.43,191.36369 427.43,427.42969 0,236.059 -191.367,427.426 -427.43,427.426 C 194.137,859.426 2.76953,668.059 2.76953,432 2.76953,195.934 194.137,4.57031 430.199,4.57031"
-               inkscape:connector-curvature="0" />
-            <path
-               id="path4201"
-               style="fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0.8"
-               d="m 430.199,40.9219 c 215.985,0 391.078,175.0901 391.078,391.0781 0,215.98 -175.093,391.074 -391.078,391.074 C 214.215,823.074 39.1211,647.98 39.1211,432 39.1211,216.012 214.215,40.9219 430.199,40.9219"
-               inkscape:connector-curvature="0" />
-          </g>
-        </g>
+        <rect
+           style="fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:65.12836456px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.7"
+           id="rect3352"
+           width="948.14813"
+           height="948.14813"
+           x="-73.326614"
+           y="-831.20038"
+           transform="scale(1,-1)" />
+        <rect
+           style="fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:65.12836456px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="rect3352-6"
+           width="829.62964"
+           height="829.62964"
+           x="-14.067358"
+           y="-771.94116"
+           transform="scale(1,-1)" />
       </g>
     </g>
   </g>
